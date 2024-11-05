@@ -1,1 +1,1 @@
-This project is for github practice.
+Hello! This project is for github practice.
